@@ -27,6 +27,10 @@ git clone https://github.com/yourusername/neural-network-time-series-forecasting
 ```
 
 ## References
-Artificial Neuron Networks - A paper by Anil K. Jain, J. Mao, and K.M. Mohiuddin that provides valuable insights into artificial neural networks, including Backpropagation.
-Please feel free to explore this project, experiment with different datasets, and customize the neural network architecture to suit your specific time series forecasting needs. Your contributions and feedback are welcome.
+
+This project draws inspiration and knowledge from various sources to build a solid foundation for time series forecasting using neural networks. Below are key references that have contributed to the development and understanding of this project:
+
+- **Artificial Neuron Networks**: This project is heavily influenced by the research paper "Artificial Neuron Networks" authored by Anil K. Jain, J. Mao, and K.M. Mohiuddin. The paper provides valuable insights into artificial neural networks, including the Backpropagation algorithm, which forms the core of this project. You can access the paper [here](http://www.cogsci.ucsd.edu/~ajyu/Teaching/Cogs202_sp12/Readings/jain_ann96.pdf).
+
+Please feel free to explore this project, experiment with different datasets, and customize the neural network architecture to suit your specific time series forecasting needs.
 
